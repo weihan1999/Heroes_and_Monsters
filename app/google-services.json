@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "555963765147",
+    "firebase_url": "https://checkers-1edc8.firebaseio.com",
+    "project_id": "checkers-1edc8",
+    "storage_bucket": "checkers-1edc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555963765147:android:538308e1f326b89e",
+        "android_client_info": {
+          "package_name": "com.mlcheckers.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555963765147-ib2kdi0lcib0io11fcgbcnjqhs9mdikd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Z6NgjcN4qk6Ej74YEb4G1yzPKavT39I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
